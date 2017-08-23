@@ -1,0 +1,10 @@
+.\objects\ringbuffer.o: xp\ringbuffer.c
+.\objects\ringbuffer.o: xp\ringbuffer.h
+.\objects\ringbuffer.o: xp\caculate.h
+.\objects\ringbuffer.o: .\CMSIS\stm32f4xx.h
+.\objects\ringbuffer.o: .\CMSIS\core_cm4.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\ringbuffer.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\ringbuffer.o: .\CMSIS\system_stm32f4xx.h

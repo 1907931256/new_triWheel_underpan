@@ -1,0 +1,9 @@
+.\objects\sys.o: STM32F4xx_StdPeriph_Driver\sys\sys.c
+.\objects\sys.o: STM32F4xx_StdPeriph_Driver\sys\sys.h
+.\objects\sys.o: .\CMSIS\stm32f4xx.h
+.\objects\sys.o: .\CMSIS\core_cm4.h
+.\objects\sys.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\sys.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\sys.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\sys.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\sys.o: .\CMSIS\system_stm32f4xx.h

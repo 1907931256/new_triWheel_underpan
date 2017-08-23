@@ -1,0 +1,12 @@
+.\objects\caculate.o: motionCard\caculate.c
+.\objects\caculate.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\caculate.o: motionCard\caculate.h
+.\objects\caculate.o: motionCard\MotionCard.h
+.\objects\caculate.o: motionCard\stm32f4xx.h
+.\objects\caculate.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\objects\caculate.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\caculate.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\caculate.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\caculate.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\caculate.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\caculate.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h

@@ -1,0 +1,15 @@
+.\objects\threewheelmove.o: xp\threeWheelMove.c
+.\objects\threewheelmove.o: xp\threeWheelMove.h
+.\objects\threewheelmove.o: xp\MotionCard.h
+.\objects\threewheelmove.o: xp\elmo.h
+.\objects\threewheelmove.o: .\CMSIS\stm32f4xx.h
+.\objects\threewheelmove.o: .\CMSIS\core_cm4.h
+.\objects\threewheelmove.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\threewheelmove.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\threewheelmove.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\threewheelmove.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\threewheelmove.o: .\CMSIS\system_stm32f4xx.h
+.\objects\threewheelmove.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\threewheelmove.o: xp\debug.h
+.\objects\threewheelmove.o: .\User\usart.h
+.\objects\threewheelmove.o: .\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h

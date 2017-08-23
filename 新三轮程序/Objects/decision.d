@@ -1,0 +1,15 @@
+.\objects\decision.o: xp\decision.c
+.\objects\decision.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\decision.o: xp\move.h
+.\objects\decision.o: xp\caculate.h
+.\objects\decision.o: xp\decision.h
+.\objects\decision.o: .\User\usart.h
+.\objects\decision.o: .\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
+.\objects\decision.o: .\CMSIS\stm32f4xx.h
+.\objects\decision.o: .\CMSIS\core_cm4.h
+.\objects\decision.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\decision.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\decision.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\decision.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\decision.o: .\CMSIS\system_stm32f4xx.h
+.\objects\decision.o: xp\debug.h

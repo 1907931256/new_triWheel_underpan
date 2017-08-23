@@ -1,0 +1,12 @@
+.\objects\possystem.o: motionCard\posSystem.c
+.\objects\possystem.o: motionCard\posSystem.h
+.\objects\possystem.o: motionCard\caculate.h
+.\objects\possystem.o: motionCard\MotionCard.h
+.\objects\possystem.o: motionCard\stm32f4xx.h
+.\objects\possystem.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4.h
+.\objects\possystem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\possystem.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\possystem.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\possystem.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\possystem.o: C:\Keil_v5\ARM\PACK\Keil\STM32F4xx_DFP\2.9.0\Drivers\CMSIS\Device\ST\STM32F4xx\Include\system_stm32f4xx.h
+.\objects\possystem.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h

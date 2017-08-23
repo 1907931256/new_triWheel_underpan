@@ -1,0 +1,25 @@
+--cpu Cortex-M4.fp
+".\objects\main.o"
+".\objects\can.o"
+".\objects\gpio.o"
+".\objects\stm32f4xx_it.o"
+".\objects\timer.o"
+".\objects\usart.o"
+".\objects\startup_stm32f4xx.o"
+".\objects\misc.o"
+".\objects\stm32f4xx_can.o"
+".\objects\stm32f4xx_gpio.o"
+".\objects\stm32f4xx_rcc.o"
+".\objects\stm32f4xx_usart.o"
+".\objects\stm32f4xx_tim.o"
+".\objects\stm32f4xx_flash.o"
+".\objects\debug.o"
+".\objects\update.o"
+".\objects\threewheelmove.o"
+".\xp\motionCard.lib"
+".\objects\elmo.o"
+".\objects\system_stm32f4xx.o"
+--library_type=microlib --strict --scatter ".\Objects\MOTION_CARD.sct"
+--summary_stderr --info summarysizes --map --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list ".\Listings\MOTION_CARD.map" -o .\Objects\MOTION_CARD.axf

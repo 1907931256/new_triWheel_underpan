@@ -1,0 +1,13 @@
+.\objects\debug.o: xp\debug.c
+.\objects\debug.o: xp\debug.h
+.\objects\debug.o: .\User\usart.h
+.\objects\debug.o: .\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
+.\objects\debug.o: .\CMSIS\stm32f4xx.h
+.\objects\debug.o: .\CMSIS\core_cm4.h
+.\objects\debug.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\debug.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\debug.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\debug.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\debug.o: .\CMSIS\system_stm32f4xx.h
+.\objects\debug.o: xp\update.h
+.\objects\debug.o: xp\MotionCard.h

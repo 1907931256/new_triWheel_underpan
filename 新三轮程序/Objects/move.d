@@ -1,0 +1,16 @@
+.\objects\move.o: xp\move.c
+.\objects\move.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\math.h
+.\objects\move.o: xp\move.h
+.\objects\move.o: xp\caculate.h
+.\objects\move.o: .\User\usart.h
+.\objects\move.o: .\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
+.\objects\move.o: .\CMSIS\stm32f4xx.h
+.\objects\move.o: .\CMSIS\core_cm4.h
+.\objects\move.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\move.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\move.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\move.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\move.o: .\CMSIS\system_stm32f4xx.h
+.\objects\move.o: xp\debug.h
+.\objects\move.o: .\User\usart.h
+.\objects\move.o: .\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h

@@ -1,0 +1,10 @@
+.\objects\flash.o: xp\flash.c
+.\objects\flash.o: xp\flash.h
+.\objects\flash.o: .\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_flash.h
+.\objects\flash.o: .\CMSIS\stm32f4xx.h
+.\objects\flash.o: .\CMSIS\core_cm4.h
+.\objects\flash.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\flash.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmInstr.h
+.\objects\flash.o: C:\Keil_v5\ARM\CMSIS\Include\core_cmFunc.h
+.\objects\flash.o: C:\Keil_v5\ARM\CMSIS\Include\core_cm4_simd.h
+.\objects\flash.o: .\CMSIS\system_stm32f4xx.h
